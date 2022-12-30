@@ -8,5 +8,7 @@ time evolution we use the McLachlan variational principle.
 There are three files: 
 
 noNoiseHM.py    :: This file runs the time evolution locally, without a noise model (uses QASM).
+
 noiseModelHM.py :: This file runs the time evolution locally, with a noise model derived from a device.
+
 hm_runtime.py   :: This file uses the IBMQ runtime interface to run the time evolution on a real IBM device (ibmq_quito).
