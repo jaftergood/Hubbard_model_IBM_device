@@ -1,9 +1,6 @@
 # Hubbard_model_IBM_device
 
-This repository is for scripts that run simulations for the Hubbard model at half-filling.
-At half-filling we can write the Hubbard model in terms of a spin Hamiltonian. The simulations
-are single-spin Hamiltonians, with the idea to run them on a real IBMQ device. For parameterized
-time evolution we use the McLachlan variational principle.
+This repository is for scripts that run simulations for the Hubbard model at half-filling. At half-filling we can write the Hubbard model in terms of a spin Hamiltonian. The simulations are single-spin Hamiltonians, with the idea to run them on a real IBMQ device. For parameterized time evolution we use the McLachlan variational principle.
 
 There are three files: 
 
